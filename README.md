@@ -24,7 +24,7 @@
 
 
 #### 题目：Hardware accelerator for eBPF 
-演讲人周鹤洋，目前就读于南京航空航天大学
+演讲人周鹤洋，南京航空航天大学
 
 
 #### 题目： Extend Database Mesh with eBPF 
@@ -36,7 +36,7 @@
 
 
 #### 题目： eBPF框架的开发实践经验分享
-演讲人杨润青，技术专家
+演讲人杨润青博士
 
 #### 题目： lmp工具介绍
 演讲人西邮Linux团队
