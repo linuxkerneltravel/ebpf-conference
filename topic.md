@@ -185,3 +185,16 @@ LCC（Libbpf Compilation Collection）以 BPF CORE 为基础实现，保留了�
 
 #### 作者简介
 范彬，在云计算、容器、云原生技术领域工作多年，现任中国移动PaaS平台研发专家，目前主要负责微服务、服务网格模块的集成开发。一直保持热情，努力研究最新的内核和网络技术，是《Linux 内核观测技术 BPF》和《云原生数据中心网络》书的主要译者之一。
+
+
+
+
+*************************************************
+#### 项目题目: Pixie:开源云原生应用可观测平台
+#### 简要描述
+ Pixie 是 Kubernetes 应用程序的开源可观察性工具。使用 Pixie 查看集群的高级状态（服务地图、集群资源、应用程序流量），还可以深入查看更详细的视图（pod 状态、火焰图、单个全身应用程序请求）。
+
+
+#### 作者简介
+ 赵亚雄，2019年4月加入PixieLabs，作为Founding Engineer负责产品研发。曾在Google Borg、Network Infrastructure团队担任Tech Lead (TL)、Tech Lead Manager (TLM)，也是Amazon Kinesis创始团队成员。
+ 
