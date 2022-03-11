@@ -34,3 +34,26 @@ XXXX
 
 #### 作者简介
  赵亚雄，2019年4月加入PixieLabs，作为Founding Engineer负责产品研发。曾在Google Borg、Network Infrastructure团队担任Tech Lead (TL)、Tech Lead Manager (TLM)，也是Amazon Kinesis创始团队成员。
+
+
+*************************************************
+#### 项目题目: eBPF小工具介开发-CPU利用率精准计算
+#### 简要描述
+ 内核的CPUIdle状态的选择初衷是为了节约能耗，但不恰当的选择却有可能造成功耗的浪费，使用eBPF可以对CPUIdle的状态选择算法做出一个合理的衡量标准，适用于其算法优化。
+CPU频率的变化总是受到CPU利用率的影响，使用eBPF可以将kprobe与perf进行有效的结合，轻易得到CPU在不同频率下的CPU利用率以及受CPU利用率影响的频率变换信息。
+
+
+可参考链接：https://mp.weixin.qq.com/s/df3GHVR9oq8AUl2qL-rNlA
+
+#### 作者简介
+张玉哲，陈莉君老师研究生团队研二学生。
+
+*************************************************
+#### 项目题目: eBPF小工具介开发-打印内核栈调用关系
+#### 简要描述
+eBPF提供了STACK_TRACE类型的Map，可以轻易打印出内核中的函数调用关系，对于内核学习以及debug异常有很大的意义。
+
+
+
+#### 作者简介
+张玉哲，陈莉君老师研究生团队研二学生。
