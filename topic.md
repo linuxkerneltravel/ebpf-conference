@@ -189,12 +189,5 @@ LCC（Libbpf Compilation Collection）以 BPF CORE 为基础实现，保留了�
 
 
 
-*************************************************
-#### 项目题目: Pixie:开源云原生应用可观测平台
-#### 简要描述
- Pixie 是 Kubernetes 应用程序的开源可观察性工具。使用 Pixie 查看集群的高级状态（服务地图、集群资源、应用程序流量），还可以深入查看更详细的视图（pod 状态、火焰图、单个全身应用程序请求）。
 
-
-#### 作者简介
- 赵亚雄，2019年4月加入PixieLabs，作为Founding Engineer负责产品研发。曾在Google Borg、Network Infrastructure团队担任Tech Lead (TL)、Tech Lead Manager (TLM)，也是Amazon Kinesis创始团队成员。
  
