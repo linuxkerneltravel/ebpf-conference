@@ -53,7 +53,7 @@ CPU频率的变化总是受到CPU利用率的影响，使用eBPF可以将kprobe�
 #### 简要描述
 eBPF提供了STACK_TRACE类型的Map，可以轻易打印出内核中的函数调用关系，对于内核学习以及debug异常有很大的意义。
 
-
+可参考链接：https://mp.weixin.qq.com/s/df3GHVR9oq8AUl2qL-rNlA
 
 #### 作者简介
 张玉哲，陈莉君老师研究生团队研二学生。
