@@ -190,4 +190,21 @@ LCC（Libbpf Compilation Collection）以 BPF CORE 为基础实现，保留了�
 
 
 
- 
+*************************************************
+####   eBPF在安全领域的应用
+#### 简要描述
+ 本议题主要介绍eBPF在系统安全领域的应用，包括漏洞止血，安全加固，安全治理
+
+#### 作者简介
+ 李强，蚂蚁集团安全专家，长期从事Linux系统安全工作，在虚拟化、Linux kernel等领域挖掘了大量漏洞，曾在CanSecWest，HITB，Kcon等国内国际会议上做主题演讲。
+
+
+
+
+*************************************************
+####  bcc应用最佳实践 
+#### 简要描述
+tcprtt的原理与实践，runqslower的改进和实践，biolatency的原理和实践
+
+#### 作者简介
+皮振伟，bcc工具tcprtt和virtiostat命令的作者，以及runqlower、trace、funccount等命令贡献者。
