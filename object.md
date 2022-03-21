@@ -75,7 +75,7 @@ eBPF提供了STACK_TRACE类型的Map，可以轻易打印出内核中的函数�
  Embedshim provide task runtime implementation with pidfd and eBPF sched_process_exit tracepoint to manage deamonless container with low overhead.
 链接：https://github.com/fuweid/embedshim
 #### 作者简介
-fuweid
+傅伟, 华为云容器技术专家，CNCF containerD 项目核心 Committer
 
 
 *************************************************
