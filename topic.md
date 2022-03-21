@@ -93,12 +93,14 @@ eBPF 是 Linux 内核主线支持的字节码技术，允许在内核态执行�
 *************************************************
  
 
-####  lmp工具介绍
+####  基于ebpf的Linux内核探索之旅——开源项目LMP
 #### 简要描述
-LMP是一个基于BCC(BPF Compiler Collection)的Linux系统性能数据实时展示的web工具，它使用BPF(Berkeley Packet Filters)，也叫eBPF，目前LMP在ubuntu18.04上测试通过，内核版本4.15.0。
+
+eBPF的出现拓展了了解和深入分析Linux内核的新方式，它正处于快速发展时期，使得Linux爱好者可以尽情发挥自己的想象力。Linux内核之旅开源社区和 ThoughtWorks 安全与系统研发事业部发起了基于eBPF的开源项目LMP（Linux microscope），该项目具有内核观测、场景化分析和功能增强三大模块，为Linux内核和eBPF爱好者提供一种eBPF易用，并尽情发掘自己潜力的平台。
+
 
 #### 作者简介
-演讲人西邮Linux团队
+赵晨雨 ，2021年毕业于西安邮电大学，Linux内核之旅社区maintainer，Thoughtworks 安全与系统研发事业部咨询师
 
 *************************************************
  
