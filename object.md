@@ -59,3 +59,32 @@ eBPF提供了STACK_TRACE类型的Map，可以轻易打印出内核中的函数�
 
 #### 作者简介
 张玉哲，陈莉君老师研究生团队研二学生。
+
+
+*************************************************
+#### surftrace工具简介  
+#### 简要描述
+ surftrace是在ftrace和libbpf基础上封装的一系列工具集，用于trace内核信息，当前发行版主要包含 surftrace、surfGuide、pylcc三大个工具。
+链接： https://github.com/aliyun/surftrace
+#### 作者简介
+阿里巴巴 OSS团队 
+
+*************************************************
+#### embedshim简介  
+#### 简要描述
+ Embedshim provide task runtime implementation with pidfd and eBPF sched_process_exit tracepoint to manage deamonless container with low overhead.
+链接：https://github.com/fuweid/embedshim
+#### 作者简介
+fuweid
+
+
+*************************************************
+#### DatenLord简介  
+#### 简要描述
+ DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system.
+链接: https://github.com/datenlord/datenlord
+
+#### 作者简介
+DatenLord团队
+
+ 
