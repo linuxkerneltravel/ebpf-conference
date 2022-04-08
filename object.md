@@ -87,4 +87,15 @@ eBPF提供了STACK_TRACE类型的Map，可以轻易打印出内核中的函数�
 #### 作者简介
 DatenLord团队
 
+
+*************************************************
+####  eCapture：无需CA证书抓https网络明文通讯
+#### 简要描述
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。
+  
+链接:  https://github.com/ehids/ecapture
+
+#### 作者简介
+CFC4N, 美团
+
  
