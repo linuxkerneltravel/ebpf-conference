@@ -59,7 +59,7 @@ CPU频率的变化总是受到CPU利用率的影响，使用eBPF可以将kprobe�
 阿里巴巴 OSS团队 
 
 *************************************************
-#### embedshim简介  
+#### 轻量化容器管理引擎（embedshim）简介  
 #### 简要描述
  Embedshim provide task runtime implementation with pidfd and eBPF sched_process_exit tracepoint to manage deamonless container with low overhead.
 链接：https://github.com/fuweid/embedshim
@@ -68,7 +68,7 @@ CPU频率的变化总是受到CPU利用率的影响，使用eBPF可以将kprobe�
 
 
 *************************************************
-#### DatenLord简介  
+#### 跨云存储（DatenLord）简介  
 #### 简要描述
  DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system.
 链接: https://github.com/datenlord/datenlord
