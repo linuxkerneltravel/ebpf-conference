@@ -80,7 +80,7 @@ DatenLord团队
 *************************************************
 ####  eCapture：无需CA证书抓https网络明文通讯
 #### 简要描述
-eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。
+eCapture是一款基于eBPF技术实现的用户态数据捕获工具。不需要CA证书，即可捕获https/tls的通讯明文。支持openssl、gnutls、nspr等三种tls加密类库。支持4.18以上内核，支持开启、关闭BTF两种模式。
   
 链接:  https://github.com/ehids/ecapture
 
