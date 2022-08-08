@@ -37,6 +37,16 @@ XXXX
 #### 作者简介
  赵亚雄，2019年4月加入PixieLabs，作为Founding Engineer负责产品研发。曾在Google Borg、Network Infrastructure团队担任Tech Lead (TL)、Tech Lead Manager (TLM)，也是Amazon Kinesis创始团队成员。
 
+*************************************************
+####  基于ebpf的Linux内核探索之旅——开源项目LMP
+#### 简要描述
+ eBPF的出现拓展了了解和深入分析Linux内核的新方式，它正处于快速发展时期，使得Linux爱好者可以尽情发挥自己的想象力。Linux内核之旅开源社区和 ThoughtWorks 安全与系统研发事业部发起了基于eBPF的开源项目LMP（Linux microscope），该项目具有内核观测、场景化分析和功能增强三大模块，为Linux内核和eBPF爱好者提供一种eBPF易用，并尽情发掘自己潜力的平台。
+
+
+链接：https://gitee.com/linuxkerneltravel/lmp
+
+#### 作者简介
+赵晨雨 ，2021年毕业于西安邮电大学，Linux内核之旅社区maintainer，Thoughtworks 安全与系统研发事业部咨询师
 
 *************************************************
 ####  eBPF小工具开发-精准计算CPU利用率
