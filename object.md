@@ -25,19 +25,6 @@ XXXX
 
 
 *************************************************
-## 已登记演讲题目/项目
-
-#### Pixie:开源云原生应用可观测平台
-#### 简要描述
- Pixie 是 Kubernetes 应用程序的开源可观察性工具。使用 Pixie 查看集群的高级状态（服务地图、集群资源、应用程序流量），还可以深入查看更详细的视图（pod 状态、火焰图、单个全身应用程序请求）。
-
-官网：https://pixielabs.ai/
-
-
-#### 作者简介
- 赵亚雄，2019年4月加入PixieLabs，作为Founding Engineer负责产品研发。曾在Google Borg、Network Infrastructure团队担任Tech Lead (TL)、Tech Lead Manager (TLM)，也是Amazon Kinesis创始团队成员。
-
-*************************************************
 ####  基于ebpf的Linux内核探索之旅——开源项目LMP
 #### 简要描述
  eBPF的出现拓展了了解和深入分析Linux内核的新方式，它正处于快速发展时期，使得Linux爱好者可以尽情发挥自己的想象力。Linux内核之旅开源社区和 ThoughtWorks 安全与系统研发事业部发起了基于eBPF的开源项目LMP（Linux microscope），该项目具有内核观测、场景化分析和功能增强三大模块，为Linux内核和eBPF爱好者提供一种eBPF易用，并尽情发掘自己潜力的平台。
@@ -108,6 +95,17 @@ Kindling是一款基于 eBPF 的云原生可观测性开源项目，它提供了
 #### 作者简介
 Kindling开源团队
 
+*************************************************
+## 已登记演讲题目/项目
 
+#### Pixie:开源云原生应用可观测平台
+#### 简要描述
+ Pixie 是 Kubernetes 应用程序的开源可观察性工具。使用 Pixie 查看集群的高级状态（服务地图、集群资源、应用程序流量），还可以深入查看更详细的视图（pod 状态、火焰图、单个全身应用程序请求）。
+
+官网：https://pixielabs.ai/
+
+
+#### 作者简介
+ 赵亚雄，2019年4月加入PixieLabs，作为Founding Engineer负责产品研发。曾在Google Borg、Network Infrastructure团队担任Tech Lead (TL)、Tech Lead Manager (TLM)，也是Amazon Kinesis创始团队成员。
 
 
