@@ -117,3 +117,7 @@
 
 #### 基于eBPF的程序摄像头——Trace Profiling的设想
 演讲人苌程，谐云科技联合创始人兼CTO，Kindling开源项目创始人
+
+
+####  eBPF 动态加载框架：eBPF as a Service
+演讲人郑昱笙，浙江大学
